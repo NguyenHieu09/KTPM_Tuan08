@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/module02/anhviet.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module03/vietanh.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module04/anhphap.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module05/vietphap.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module06/phapviet.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module07/phapanh.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/main/App.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/main/DictionaryGUI.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

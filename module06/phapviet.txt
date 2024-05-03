@@ -1,0 +1,26 @@
+pomme: quả táo
+banane: chuối
+chat: con mèo
+chien: con chó
+éléphant: con voi
+poisson: cá
+girafe: hươu cao cổ
+cheval: con ngựa
+crème glacée: kem
+méduse: sứa
+kangourou: chuột túi
+lion: con sư tử
+singe: con khỉ
+nid: tổ
+orange: quả cam
+manchot: chim cánh cụt
+reine: nữ hoàng
+lapin: con thỏ
+serpent: con rắn
+tigre: con hổ
+parapluie: cái ô
+vase: bình hoa
+pastèque: dưa hấu
+xylophone: xylophone
+yak: con bò lạc đà
+zèbre: ngựa vằn

@@ -1,0 +1,26 @@
+apple: pomme
+banana: banane
+cat: chat
+dog: chien
+elephant: éléphant
+fish: poisson
+giraffe: girafe
+horse: cheval
+ice cream: crème glacée
+jellyfish: méduse
+kangaroo: kangourou
+lion: lion
+monkey: singe
+nest: nid
+orange: orange
+penguin: manchot
+queen: reine
+rabbit: lapin
+snake: serpent
+tiger: tigre
+umbrella: parapluie
+vase: vase
+watermelon: pastèque
+xylophone: xylophone
+yak: yak
+zebra: zèbre

@@ -1,0 +1,26 @@
+apple: quả táo
+banana: chuối
+cat: con mèo
+dog: con chó
+elephant: con voi
+fish: cá
+giraffe: hươu cao cổ
+horse: con ngựa
+ice cream: kem
+jellyfish: sứa
+kangaroo: chuột túi
+lion: con sư tử
+monkey: con khỉ
+nest: tổ
+orange: quả cam
+penguin: chim cánh cụt
+queen: nữ hoàng
+rabbit: con thỏ
+snake: con rắn
+tiger: con hổ
+umbrella: cái ô
+vase: bình hoa
+watermelon: dưa hấu
+xylophone: xylophone
+yak: con bò lạc đà
+zebra: ngựa vằn

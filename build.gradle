@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(path: ':module03')
+    implementation project(path: ':module02')
+    implementation project(path: ':module04')
+    implementation project(path: ':module05')
+    implementation project(path: ':module06')
+    implementation project(path: ':module07')
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation project(':module01')
+
+
+}
+
+test {
+    useJUnitPlatform()
+}
